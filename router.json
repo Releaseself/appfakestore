@@ -1,0 +1,7 @@
+[
+  {
+    "get": "/",
+    "view": "index",
+    "handler": "home"
+  }
+]

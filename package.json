@@ -1,0 +1,15 @@
+{
+  "name": "appfakestore",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "dotenv": "^4.0.0",
+    "lodash": "^4.17.4",
+    "mysql": "^2.13.0",
+    "request": "^2.81.0",
+    "sequelize": "^3.30.0",
+    "sharp": "^0.18.2",
+    "vbase": "git+https://github.com/v-wisdom/vbase.git",
+    "xml2js": "^0.4.17"
+  }
+}
