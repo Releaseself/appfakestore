@@ -1,15 +1,14 @@
 {
   "name": "appfakestore",
   "version": "0.0.1",
+  "scripts": {
+    "fetch": "node fetch.js"
+  },
   "dependencies": {
     "bluebird": "^3.4.7",
-    "dotenv": "^4.0.0",
+    "cheerio": "^1.0.0-rc.2",
     "lodash": "^4.17.4",
-    "mysql": "^2.13.0",
     "request": "^2.81.0",
-    "sequelize": "^3.30.0",
-    "sharp": "^0.18.2",
-    "vbase": "git+https://github.com/v-wisdom/vbase.git",
-    "xml2js": "^0.4.17"
+    "request-promise": "^4.2.1"
   }
 }

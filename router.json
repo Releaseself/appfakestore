@@ -3,5 +3,10 @@
     "get": "/",
     "view": "index",
     "handler": "home"
+  },
+  {
+    "get": "/apple/:id",
+    "view": "detail",
+    "handler": "detail"
   }
 ]
